@@ -1,4 +1,4 @@
-# 🎤 Voice-Controlled Home Appliances System (Offline) 🔌
+# 🎤 🔌Voice-Controlled Home Appliances System 
 
 A privacy-focused offline voice automation system for controlling home appliances using the **VC-02 voice recognition module** – all without the internet! 🌐❌
 
